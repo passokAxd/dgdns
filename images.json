@@ -1,0 +1,8 @@
+{
+  "imagens_list": [
+    { "background": "https://lktv.com.br/assets/img/background.jpg" },
+    { "botao_canais": "https://lktv.com.br/assets/img/botao_canais.jpg" },
+    { "botao_filmes": "https://lktv.com.br/assets/img/botao_filmes.jpg" },
+    { "botao_series": "https://lktv.com.br/assets/img/botao_series.jpg" }
+  ]
+}
