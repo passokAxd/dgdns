@@ -1,4 +1,7 @@
 {
-  "server_url": "http://dg25.me",
-  "port": 80
+  "dns_list": [
+    { "server_url": "http://dg25.me", "port": 80 },
+    { "server_url": "http://ctdg.me", "port": 80 },
+    { "server_url": "http://digsrv.me", "port": 80 }
+  ]
 }
