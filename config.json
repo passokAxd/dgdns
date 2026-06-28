@@ -1,6 +1,7 @@
 {
   "dns_list": [
-    { "server_url": "lktvdns.site", "port": 80 },
-    { "server_url": "lktvdns.space", "port": 80 }
+    { "server_url": "http://lktvdns.site", "port": 80 },
+    { "server_url": "http://lktvdns.space", "port": 80 },
+    { "server_url": "http://lktv.space", "port": 25461 }
   ]
 }
