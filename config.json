@@ -1,7 +1,9 @@
 {
   "dns_list": [
-    { "server_url": "http://dg25.me", "port": 80 },
-    { "server_url": "http://ctdg.me", "port": 80 },
-    { "server_url": "http://digsrv.me", "port": 80 }
+    { "server_url": "http://dg25.lat", "port": 80 },
+    { "server_url": "http://litdg.me", "port": 80 },
+    { "server_url": "http://digsrv.me", "port": 80 },
+    { "server_url": "http://digplus.fun", "port": 80 },
+    { "server_url": "http://limaodoce.lat", "port": 80 }
   ]
 }
