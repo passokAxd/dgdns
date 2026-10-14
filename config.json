@@ -4,6 +4,7 @@
     { "server_url": "http://litdg.me", "port": 80 },
     { "server_url": "http://digsrv.me", "port": 80 },
     { "server_url": "http://digplus.fun", "port": 80 },
-    { "server_url": "http://limaodoce.lat", "port": 80 }
+    { "server_url": "http://limaodoce.lat", "port": 80 },
+    { "server_url": "https://braboplayer.com/demo", "port": 443 }
   ]
 }
